@@ -19,4 +19,4 @@ Python · Rust · TypeScript/Node.js · Kubernetes · Docker · AWS
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-essam-97497a223) · ahmedessamsalem123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ahmed-essam-97497a223) · domysalem10@gmail.com
