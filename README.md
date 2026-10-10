@@ -1,6 +1,6 @@
 ## Hi, I'm Ahmed 👋
 
-Software Engineer building production multi-agent systems. Currently at **SkanAI**, previously founding engineer at **SmythOS**, an agentic AI platform deployed at Toyota, Lenovo and Hyundai 42dot.
+Software Engineer building production multi-agent systems. Currently at **SkanAI**, previously founding engineer at **SmythOS**, an agentic AI platform deployed at Toyota, and Lenovo.
 
 ### Open source
 
